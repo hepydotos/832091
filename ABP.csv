@@ -1,0 +1,10 @@
+age,sex,HR,fever_febrile_sense_chilling,surgical_Hx,whole_abdomen,upper_abdomen,lower_abdomen,epigastric,periumbilical,RUQ,Rt_Mid,RLQ,LUQ,Lt_Mid,LLQ,suprapubic,Rt_Flank,Lt_flank,radiation1,radiation2,duration,chronic_recurrent,associated_menstrual_cycle,relieving_factor,aggrevating_factor,character1,poisoned_food,irritant_food,antibiotics_Hx,nausea,vomiting,diarrhea,constipation,urinary_sx,jaundice,gas_out,suspected_cancer_sx,hematemesis,hematochezia_melena,severe_alcohol_comsumption,pregnancy,peritoneal_irritation,tenderness,CVAT,Dx1,KTAS
+30,"""f""",104,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"""3hrs""",0,0,0,0,"""undescribed""",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,"""cystitis""","""5"""
+54,"""m""",85,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"""72hrs""",0,0,0,0,"""discomfort""",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"""gastritis""","""5"""
+43,"""m""",100,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"""96hrs""",0,0,0,0,"""undescribed""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,"""diverticulitis""","""5"""
+64,"""m""",65,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"""8hrs""",0,0,0,0,"""undescribed""",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,"""appendicitis""","""3"""
+49,"""m""",67,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"""10hrs""",0,0,0,0,"""dull""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,"""ureter_stone""","""3"""
+66,"""m""",84,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"""120hrs""",0,0,0,0,"""undescribed""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,"""cholecystitis""","""3"""
+57,"""m""",72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"""720hrs""",0,0,0,0,"""stabbing""",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,"""BPH""","""5"""
+25,"""f""",76,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"""144hrs""",0,0,0,0,"""undescribed""",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,"""enteritis""","""5"""
+67,"""m""",78,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,"""12hrs""",0,0,0,0,"""tearing""",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,"""ureter_stone""","""3"""
